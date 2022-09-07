@@ -18,3 +18,8 @@
       文档：集合中的一条数据，可被增删改查
       bson：全称，binary json,二进制类型的json，数据库以字符串形式显示，MongoDB以二进制形式存储数据
       noSQL：非关系型数据库，如，MongoDB，易上手易使用 */
+
+// 在数据库角度来说
+  // MongoDB的客户端：compass,命令行,nodejs
+  // MongoDB的服务端：就是MongoDB本身
+  // 类比前端和后端理解
